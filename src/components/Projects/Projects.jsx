@@ -25,10 +25,10 @@ const Projects = () => {
 
         {/* 3rd Project */}
         <ProjectCard
-          title="Rock Paper Scissors Game"
-          main="Interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript."
-          demo="https://shaluyadav1231.github.io/Rock_paper_scissor/"
-          source="https://github.com/shaluyadav1231/Rock_paper_scissor"
+          title="porfolio website"
+          main="I Built an interactive and responsive portfolio using Tract, featuring project showcases in engaging card layouts. Designed with a user-friendly interface to enhance engagement and accessibility across all devices."
+          demo="https://shaluyadav1231.github.io/my-portfolio/"
+          source="https://github.com/shaluyadav1231/my-portfolio"
         />
 
       </div>
